@@ -80,12 +80,12 @@ currently   = ["Machine Learning", "Statistical Modeling", "Data Analysis"]
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-</p>
-<img src="https://github-readme-stats.vercel.app/api?username=Misha-te&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
----
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ngina%20Awan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ngina-awan-62b1b9283/)
