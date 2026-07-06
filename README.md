@@ -82,11 +82,8 @@ currently   = ["Machine Learning", "Statistical Modeling", "Data Analysis"]
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Misha-te&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misha-te&layout=compact&theme=default&hide_border=true" height="160"/>
 </p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Misha-te&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
 ---
 
 ## 📫 Let's Connect
