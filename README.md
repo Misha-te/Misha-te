@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Misha 👋
 
+# Hi, I'm Misha 👋
+
 **CS & Statistics @ Macalester College '29 · St. Paul, MN**
 
-I came a long way to be here — literally. From South Sudan to Kakuma Refugee Camp to Minnesota, every step of that journey sharpened how I think about problems, systems, and what technology can actually do for people.
-
-Now I'm building in ML and data, exploring the intersection of AI, quantitative research, and health tech — and always looking for the next problem worth solving.
+I'm a software developer in the making — building at the intersection of machine learning, quantitative research, and health tech. I love turning data into decisions and code into things that actually matter.
 
 ---
 
@@ -44,21 +44,49 @@ currently   = ["Machine Learning", "Statistical Modeling", "Data Analysis"]
 
 ---
 
-## 📍 Where I've Been
+## 🎓 Currently Working On
 
-```
-Akoka, South Sudan  →  Natinga  →  Kakuma Refugee Camp, Kenya  →  St. Paul, Minnesota
-```
-*Each place taught me something the classroom couldn't.*
+- 🏛️ **CS50** — Harvard's Intro to Computer Science · Strengthening fundamentals across languages and problem-solving
+- 🤖 **Intro to AI Engineering** — CodePath · Building real AI-powered applications and learning the engineering behind modern AI systems
+- 🧠 **Machine Learning** — scikit-learn, model evaluation, feature engineering
+- 🐼 **Pandas & data wrangling** — cleaning, transforming, and analyzing real datasets
+- 📈 **Quantitative finance fundamentals** — how data drives decisions in markets
+- 🏥 **AI in healthcare** — how intelligent systems can improve patient outcomes
 
 ---
 
-## 🎯 What I'm Working Toward
+## 🎯 What I'm Building Toward
 
-- 🤖 Machine learning applications in **finance** and **healthcare**
+- 🤖 ML applications in **finance** and **healthcare**
 - 📊 Quantitative research and data-driven decision making
-- ✍️ Writing my memoir — six chapters in, more to come
 - 🤝 Volunteering at AI & tech community events in the Twin Cities
+- ✍️ Writing my memoir — six chapters in, more to come
+
+---
+
+## ⚡ Fun Facts & Interests
+
+**Outside the code editor, you'll find me:**
+
+- 📖 Deep in a book — proud **book nerd**, always reading something
+- ⚖️ Watching **Law & Order** — procedural justice is genuinely fascinating to me
+- 🏰 Obsessed with **history** — civilizations, empires, how the world got here
+- 🎙️ Listening to **podcasts** — current favorites: *Piers Morgan Uncensored* and *Jubilee*
+- 📺 Rewatching my favorite shows on repeat:
+  - 🪓 **Vikings** — Ragnar Lothbrok is simply one of the greatest characters ever written. No debate.
+  - 🔒 **Prison Break** — the plot, the tension, the genius of Michael Scofield. Unmatched.
+- ⚽ **Soccer player** — Left Back, Right Back & Right Wing. Versatile on the pitch, versatile in code
+- ☕ Fueled almost entirely by **coffee**
+- 🌍 I speak **English, Swahili, and Dinka**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Misha-te&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misha-te&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
 
 ---
 
