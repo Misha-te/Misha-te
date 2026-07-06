@@ -92,5 +92,19 @@ currently   = ["Machine Learning", "Statistical Modeling", "Data Analysis"]
 [![Email](https://img.shields.io/badge/Email-mawan%40macalester.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mawan@macalester.edu)
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misha-te&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misha-te&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=misha-te&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=misha-te&theme=tokyonight&row=1&column=7" />
+</p>
 
 *Open to internships and research opportunities · Fueled almost entirely by coffee ☕*
