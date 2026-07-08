@@ -19,18 +19,18 @@ currently   = ["Machine Learning", "Statistical Modeling", "Data Analysis"]
 
 ## 🚀 Projects
 
-**[Sudana](https://github.com/Misha-te)** — Community Social Networking Platform · Python · Flask
+**[Sudana](https://github.com/Misha-te/Sudana)** — Community Social Networking Platform · Python · Flask
 > - Built a full-stack social networking web app using Python and Flask, implementing user authentication flows including sign-up, login, and password reset
 > - Designed a mobile-style dashboard featuring a social feed, story circles, post composer, and bottom navigation — demonstrating end-to-end product thinking from backend routes to UI
 > - Implemented server-side photo upload and permission memory system, enabling dynamic profile picture updates across all views
 > - Developed using **Claude Code (AI-assisted development)** — leveraging AI tooling to accelerate architecture decisions, debug server logic, and ship features faster
 
-**[The Scrambled](https://github.com/Misha-te)** — Multiplayer Word Game · Python · Tkinter
+**[The Scrambled](https://github.com/Misha-te/TheScrambled)** — Multiplayer Word Game · Python · Tkinter
 > - Built a 2–5 player GUI-based word game with randomized word selection, modular architecture, and real-time score tracking
 > - Structured codebase into 4 modular components to improve maintainability and simulate production-level code organization
 > - Resolved a shuffle edge case for short words by restricting the word bank to 6+ letter entries
 
-**[Minesweeper-Inspired Grid Game](https://github.com/Misha-te)** — Java · OOP · Event Handling
+**[Minesweeper-Inspired Grid Game](https://github.com/mac-comp127-s26/project-mine-game)** — Java · OOP · Event Handling
 > - Developed an interactive tile-based game applying OOP principles including encapsulation and modular class structure
 > - Implemented mouse event handling and dynamic visual feedback enabling real-time game state updates
 > - Collaborated with 2+ teammates using Git and GitHub to coordinate feature development and resolve merge conflicts
@@ -72,16 +72,8 @@ currently   = ["Machine Learning", "Statistical Modeling", "Data Analysis"]
 - ☕ Fueled almost entirely by **coffee**
 - 🌍 I speak **English, Swahili, and Dinka**
 
-
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ngina%20Awan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ngina-awan-62b1b9283/)
-[![Email](https://img.shields.io/badge/Email-mawan%40macalester.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mawan@macalester.edu)
-
 ---
 
-*Open to internships and research opportunities · Fueled almost entirely by coffee ☕*
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -97,4 +89,14 @@ currently   = ["Machine Learning", "Statistical Modeling", "Data Analysis"]
   <img src="https://github-profile-trophy.vercel.app/?username=misha-te&theme=tokyonight&row=1&column=7" />
 </p>
 
-*Open to internships and research opportunities · Fueled almost entirely by coffee ☕*
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ngina%20Awan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ngina-awan-62b1b9283/)
+[![Email](https://img.shields.io/badge/Email-mawan%40macalester.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mawan@macalester.edu)
+[![Gmail](https://img.shields.io/badge/Gmail-abramngina%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abramngina@gmail.com)
+
+---
+
+*Open to internships and research opportunities*
