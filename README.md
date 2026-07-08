@@ -1,10 +1,8 @@
 
 # Hi, I'm Misha 👋
+CS & Statistics @ Macalester College '29 · St. Paul, MN
 
-**CS & Statistics @ Macalester College '29 · St. Paul, MN**
-
-I'm a software developer in the making — building at the intersection of machine learning, quantitative research, and health tech. I love turning data into decisions and code into things that actually matter.
-
+Software developer. Data thinker. Currently building in ML, quant research, and health tech.
 ---
 
 ## 🛠️ Tech Stack
