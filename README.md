@@ -72,22 +72,7 @@ currently   = ["Machine Learning", "Statistical Modeling", "Data Analysis"]
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misha-te&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misha-te&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=misha-te&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=misha-te&theme=tokyonight&row=1&column=7" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
