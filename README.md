@@ -76,6 +76,7 @@ currently   = ["Machine Learning", "Statistical Modeling", "Data Analysis"]
 
 ## 📫 Let's Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-6C63FF?style=flat&logo=githubpages&logoColor=white)](https://misha-te.github.io/Ngina_Awan.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ngina%20Awan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ngina-awan-62b1b9283/)
 [![Email](https://img.shields.io/badge/Email-mawan%40macalester.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mawan@macalester.edu)
 [![Gmail](https://img.shields.io/badge/Gmail-abramngina%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abramngina@gmail.com)
@@ -83,5 +84,4 @@ currently   = ["Machine Learning", "Statistical Modeling", "Data Analysis"]
 ---
 
 *Open to internships and research opportunities*
-
 
