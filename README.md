@@ -5,6 +5,20 @@ CS & Statistics @ Macalester College '29 · St. Paul, MN
 -  Software developer. Data thinker. Currently building in ML, quant research, and health tech.
 ---
 
+## 📈 GitHub Analytics
+
+A snapshot of my activity and coding footprint — contributions, streaks, and most-used languages.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Misha-te&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Misha-te&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Misha-te&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Misha-te&bg_color=0d1117&color=58a6ff&line=00bfff&point=00bfff&area=true&area_color=003366&hide_border=true">
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ```python
@@ -12,6 +26,25 @@ languages   = ["Python (NumPy, Pandas)", "Java", "R"]
 tools       = ["Git/GitHub", "VS Code", "PyCharm", "RStudio"]
 currently   = ["Machine Learning", "Statistical Modeling", "Data Analysis"]
 ```
+
+**Languages & Libraries**
+
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white)
+![R](https://img.shields.io/badge/-R-000000?style=for-the-badge&logo=R&logoColor=276DC3)
+![NumPy](https://img.shields.io/badge/-NumPy-000000?style=for-the-badge&logo=NumPy)
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-000000?style=for-the-badge&logo=scikit-learn)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+
+**Tools & Environments**
+
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=Github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-000000?style=for-the-badge&logo=RStudio&logoColor=75AADB)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=for-the-badge&logo=Jupyter&logoColor=F37626)
 
 ---
 
@@ -76,10 +109,13 @@ currently   = ["Machine Learning", "Statistical Modeling", "Data Analysis"]
 
 ## 📫 Let's Connect
 
+<i>Let's connect, collaborate, and learn from each other — the best ideas grow when they're shared.</i>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-6C63FF?style=flat&logo=githubpages&logoColor=white)](https://misha-te.github.io/Ngina_Awan.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ngina%20Awan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ngina-awan-62b1b9283/)
 [![Email](https://img.shields.io/badge/Email-mawan%40macalester.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mawan@macalester.edu)
 [![Gmail](https://img.shields.io/badge/Gmail-abramngina%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:abramngina@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Misha--te-181717?style=flat&logo=github&logoColor=white)](https://github.com/Misha-te)
 
 ---
 
