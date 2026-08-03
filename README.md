@@ -49,6 +49,13 @@ currently   = ["Machine Learning", "Statistical Modeling", "Data Analysis"]
 
 ## 🚀 Projects
 
+**[MuxiReco](https://github.com/Misha-te/applied-ai-system-final)** — Applied AI Music Recommender · Python · Streamlit · Machine Learning · LLM
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Misha-te/applied-ai-system-final)
+> - Built a content-based recommender that ranks songs to a listener's taste and explains every pick in plain English — with a **0–100% match score** and human-readable reasons for full transparency
+> - Trained a **logistic-regression model** (hand-coded gradient descent, no scikit-learn) to *learn* the feature weights instead of hand-picking them, then ranked results with a diversity penalty
+> - Shipped a conversational **"DJ" web app** in Streamlit backed by an optional **LLM** (Gemini / DeepSeek) that turns free-text answers into preferences, gated by input **safety guardrails**
+> - Documented the system with an architecture diagram, a model card, and **41 automated tests** (`pytest`) run against real code paths
+
 **[Sudana](https://github.com/Misha-te/Sudana)** — Community Social Networking Platform · Python · Flask
 > - Built a full-stack social networking web app using Python and Flask, implementing user authentication flows including sign-up, login, and password reset
 > - Designed a mobile-style dashboard featuring a social feed, story circles, post composer, and bottom navigation — demonstrating end-to-end product thinking from backend routes to UI
