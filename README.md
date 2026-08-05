@@ -2,7 +2,11 @@
 # Hi, I'm Misha 👋
 CS & Statistics @ Macalester College '29 · St. Paul, MN
 
--  Software developer. Data thinker. Currently building in ML, quant research, and health tech.
+- 🌍 Born in **South Sudan**, raised in **Kenya** (Windle International SEP scholar), now building at **Macalester College**
+- 💡 Driven by *turning ideas into things that solve real problems* — and by how **numbers can tell a story you'd never see otherwise**
+- 🛠️ Software developer & data thinker · currently building in **AI/ML**, **full-stack**, and **data analysis**
+
+🔗 **[View my portfolio →](https://misha-te.github.io/Personal-Portofolio-Website/)**
 ---
 
 ## 📈 GitHub Analytics
@@ -22,19 +26,24 @@ A snapshot of my activity and coding footprint — contributions, streaks, and m
 ## 🛠️ Tech Stack
 
 ```python
-languages   = ["Python (NumPy, Pandas)", "Java", "R"]
+languages   = ["Python (NumPy, Pandas)", "Java", "JavaScript", "R", "HTML/CSS"]
+frameworks  = ["Flask", "Streamlit"]
 tools       = ["Git/GitHub", "VS Code", "PyCharm", "RStudio"]
-currently   = ["Machine Learning", "Statistical Modeling", "Data Analysis"]
+focus       = ["Machine Learning", "LLM Integration", "Responsible AI", "Data Analysis"]
 ```
 
 **Languages & Libraries**
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![R](https://img.shields.io/badge/-R-000000?style=for-the-badge&logo=R&logoColor=276DC3)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![NumPy](https://img.shields.io/badge/-NumPy-000000?style=for-the-badge&logo=NumPy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 
 **Tools & Environments**
 
@@ -56,21 +65,38 @@ currently   = ["Machine Learning", "Statistical Modeling", "Data Analysis"]
 > - Shipped a conversational **"DJ" web app** in Streamlit backed by an optional **LLM** (Gemini / DeepSeek) that turns free-text answers into preferences, gated by input **safety guardrails**
 > - Documented the system with an architecture diagram, a model card, and **41 automated tests** (`pytest`) run against real code paths
 
-**[Sudana](https://github.com/Misha-te/Sudana)** — Community Social Networking Platform · Python · Flask
-> - Built a full-stack social networking web app using Python and Flask, implementing user authentication flows including sign-up, login, and password reset
+**[Sudana](https://github.com/Misha-te/Sudana)** — Social Platform for the South Sudanese Community & Diaspora · Python · Flask · JS · HTML/CSS
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Misha-te/Sudana)
+> - Built a full-stack social networking web app (deployed on **Render**) that helps the South Sudanese community and diaspora connect, share information, and discover opportunities
+> - Implemented user authentication flows including sign-up, login, and password reset
 > - Designed a mobile-style dashboard featuring a social feed, story circles, post composer, and bottom navigation — demonstrating end-to-end product thinking from backend routes to UI
 > - Implemented server-side photo upload and permission memory system, enabling dynamic profile picture updates across all views
 > - Developed using **Claude Code (AI-assisted development)** — leveraging AI tooling to accelerate architecture decisions, debug server logic, and ship features faster
 
+**[PawPal](https://github.com/Misha-te/Pawpal-Pet_Management_System)** — Pet Management System · Python · Streamlit
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Misha-te/Pawpal-Pet_Management_System)
+> - Built a Streamlit-powered multi-pet care planner that generates optimized daily schedules from task priorities and recurrence rules
+> - Implemented conflict detection across overlapping tasks and persistent JSON storage to keep schedules across sessions
+
 **[The Scrambled](https://github.com/Misha-te/TheScrambled)** — Multiplayer Word Game · Python · Tkinter
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Misha-te/TheScrambled)
 > - Built a 2–5 player GUI-based word game with randomized word selection, modular architecture, and real-time score tracking
 > - Structured codebase into 4 modular components to improve maintainability and simulate production-level code organization
 > - Resolved a shuffle edge case for short words by restricting the word bank to 6+ letter entries
 
 **[Minesweeper-Inspired Grid Game](https://github.com/mac-comp127-s26/project-mine-game)** — Java · OOP · Event Handling
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mac-comp127-s26/project-mine-game)
 > - Developed an interactive tile-based game applying OOP principles including encapsulation and modular class structure
 > - Implemented mouse event handling and dynamic visual feedback enabling real-time game state updates
 > - Collaborated with 2+ teammates using Git and GitHub to coordinate feature development and resolve merge conflicts
+
+---
+
+## 💼 Experience
+
+- 🤖 **AI Quality Assurance** — *Independent Contractor* (Jul 2026 – Present) · Evaluate AI model outputs for quality and instruction adherence via Mercor & Handshake AI
+- 🏫 **Campus Center Manager** — *Macalester College* (Sep 2025 – Present) · Support daily operations, events, and student/staff assistance
+- 🧮 **Mathematics & Swahili Teacher** — *Kenya* (Mar 2023 – Dec 2024) · Taught secondary students, mentored, and organized school events
 
 ---
 
