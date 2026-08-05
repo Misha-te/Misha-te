@@ -103,11 +103,17 @@ focus       = ["Machine Learning", "LLM Integration", "Responsible AI", "Data An
 ## 🎓 Currently Working On
 
 - 🏛️ **CS50** — Harvard's Intro to Computer Science · Strengthening fundamentals across languages and problem-solving
-- 🤖 **Intro to AI Engineering** — CodePath · Building real AI-powered applications and learning the engineering behind modern AI systems
 - 🧠 **Machine Learning** — scikit-learn, model evaluation, feature engineering
 - 🐼 **Pandas & data wrangling** — cleaning, transforming, and analyzing real datasets
 - 📈 **Quantitative finance fundamentals** — how data drives decisions in markets
 - 🏥 **AI in healthcare** — how intelligent systems can improve patient outcomes
+
+---
+
+## 📜 Certifications
+
+- 🤖 **Foundations of AI Engineering** — *CodePath* · Building real AI-powered applications and the engineering behind modern AI systems
+- 📋 **Project Management** — *Google (Coursera)* · Project planning, execution, and stakeholder management
 
 ---
 
