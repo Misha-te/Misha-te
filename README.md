@@ -2,9 +2,8 @@
 # Hi, I'm Misha 👋
 CS & Statistics @ Macalester College '29 · St. Paul, MN
 
-- 🌍 Born in **South Sudan**, raised in **Kenya** (Windle International SEP scholar), now building at **Macalester College**
-- 💡 Driven by *turning ideas into things that solve real problems* — and by how **numbers can tell a story you'd never see otherwise**
-- 🛠️ Software developer & data thinker · currently building in **AI/ML**, **full-stack**, and **data analysis**
+- 🌍 Born in **South Sudan**, raised in **Kenya** , now building at **Macalester College**
+
 
 🔗 **[View my portfolio →](https://misha-te.github.io/Personal-Portofolio-Website/)**
 ---
@@ -121,8 +120,6 @@ focus       = ["Machine Learning", "LLM Integration", "Responsible AI", "Data An
 
 - 🤖 ML applications in **finance** and **healthcare**
 - 📊 Quantitative research and data-driven decision making
-- 🤝 Volunteering at AI & tech community events in the Twin Cities
-- ✍️ Writing my memoir — six chapters in, more to come
 
 ---
 
@@ -131,14 +128,13 @@ focus       = ["Machine Learning", "LLM Integration", "Responsible AI", "Data An
 **Outside the code editor, you'll find me:**
 
 - 📖 Deep in a book — proud **book nerd**, always reading something
-- ⚖️ Watching **Law & Order** — procedural justice is genuinely fascinating to me
+- ⚖️ Watching **The Lincoln Lawyer** — procedural justice is genuinely fascinating to me
 - 🏰 Obsessed with **history** — civilizations, empires, how the world got here
 - 🎙️ Listening to **podcasts** — current favorites: *Piers Morgan Uncensored* and *Jubilee*
 - 📺 Rewatching my favorite shows on repeat:
   - 🪓 **Vikings** — Ragnar Lothbrok is simply one of the greatest characters ever written. No debate.
   - 🔒 **Prison Break** — the plot, the tension, the genius of Michael Scofield. Unmatched.
-- ⚽ **Soccer player** — Left Back, Right Back & Right Wing. Versatile on the pitch, versatile in code
-- ☕ Fueled almost entirely by **coffee**
+- ⚽ **Soccer player** — Left Back, Right Back & Right Wing. 
 - 🌍 I speak **English, Swahili, and Dinka**
 
 ---
